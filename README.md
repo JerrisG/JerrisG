@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 - Data Analytics Tools Applications
 - Deep Learning on Cloud Platforms
 - Google Data Analytics Certification
+
+▶️Websites and Links:
+- RPUBS: [LINK](https://rpubs.com/Jerris_George)
