@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 :construction_worker: Projects:
 - Covid Analysis: [LINK](https://github.com/JerrisG/Portfolio_Projects/blob/main/PortfolioProject1V2.sql)
-- Suicides Analysis: [LINK](https://github.com/JerrisG/SQL/blob/main/suicides_exploration.sql)
+- Suicides Analysis(work in progress): [LINK](https://github.com/JerrisG/SQL/blob/main/suicides_exploration.sql)
 - Python to SQL Server Connection and Query: [LINK](https://github.com/JerrisG/Python/blob/main/python_to_sql_server.ipynb)
 
 📊Dashboards:
