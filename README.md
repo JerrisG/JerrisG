@@ -29,15 +29,6 @@ Here are some ideas to get you started:
 - Python
 - R
 
-📚Courses and Certifications:
-- Machine Learning Algorithms I/Algorithms II
-- Data Analytics Visualization and Communication
-- Data Analytics Tools & Techniques
-- Data Foundations
-- Data Analytics Tools Applications
-- Deep Learning on Cloud Platforms
-- Google Data Analytics Certification
-
 :construction_worker: Projects:
 - Covid Analysis: [LINK](https://github.com/JerrisG/Portfolio_Projects/blob/main/PortfolioProject1V2.sql)
 - Suicides Analysis(work in progress): [LINK](https://github.com/JerrisG/SQL/blob/main/suicides_exploration.sql)
@@ -47,3 +38,12 @@ Here are some ideas to get you started:
 - COVID 19 Dashboard: [LINK](https://public.tableau.com/views/COVID-19Dashboard_16217959357270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Global Happiness Score: [LINK](https://public.tableau.com/shared/DFYM44XST?:display_count=n&:origin=viz_share_link)
 - 2016 US Elections Map: [LINK](https://public.tableau.com/views/JerrisGeorge_HW4/TreeMap?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+📚Courses and Certifications:
+- Machine Learning Algorithms I/Algorithms II
+- Data Analytics Visualization and Communication
+- Data Analytics Tools & Techniques
+- Data Foundations
+- Data Analytics Tools Applications
+- Deep Learning on Cloud Platforms
+- Google Data Analytics Certification
