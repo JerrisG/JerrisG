@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 💬About Me:
 - I'm a masters student of Data Analytics
-- I have a background performing analysis of data for large Oil and Energy clients.
+- I have a background performing analysis of data for medium to large energy clients.
 - I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 :📉Skills:
