@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - Tableau
 - Microsoft SQL Server
 - MySQL
-- Microsoft Excel/Google Sheets
 - BigQuery
+- RedShift
+- Microsoft Excel/Google Sheets
 - Python
 - R
 
@@ -48,5 +49,6 @@ Here are some ideas to get you started:
 - Deep Learning on Cloud Platforms
 - Google Data Analytics Certification
 
-▶️Websites and Links:
+▶️Websites:
 - RPUBS: [LINK](https://rpubs.com/Jerris_George)
+- LINKEDIN: [LINK](linkedin.com/in/jerris-george-0aa09a21)
